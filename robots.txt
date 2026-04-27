@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kinour.s3.eu-north-1.amazonaws.com/sitemap1.xml
